@@ -1,6 +1,6 @@
 # chatsapp
 
-A new Flutter project.
+This is group chat app.
 
 ## Getting Started
 
