@@ -1,7 +1,6 @@
 # chatsapp
 
 This is group chat app.
-![Uploading WhatsApp Image 2022-02-09 at 7.23.00 PM.jpeg…]()
 
 ## Getting Started
 
